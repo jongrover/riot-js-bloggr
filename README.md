@@ -1,8 +1,8 @@
 # Riot JS Bloggr
 
-Youtube video tutorial that accompanies this code can be found at: [https://youtu.be/4DLlyQt53dY](https://youtu.be/4DLlyQt53dY)
-
 This is a tutorial on Riot.js a React-like micro library. In this tutorial I walk you through creating a simple blog app where a user can click on post titles to display individual blog posts. It focuses on Riot.mount and Riot.route
+
+The Youtube video tutorial that accompanies this code can be found at: [https://youtu.be/4DLlyQt53dY](https://youtu.be/4DLlyQt53dY)
 
 ## Instructions
 
