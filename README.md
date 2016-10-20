@@ -24,9 +24,9 @@ This is a tutorial on Riot.js a React-like micro library. In this tutorial I wal
 
  - In your command line interface (CLI) type: `npm install -g live-server`
 
-5. Follow the tutorial video above. Get any snippet code referenced in the video from here: 
+5. Follow the tutorial video above
 
- - [https://gist.github.com/jongrover/943...](https://gist.github.com/jongrover/94355826575fa95e1e5b48aed72b6068)
+ - Snippet Code: [https://gist.github.com/jongrover/943...](https://gist.github.com/jongrover/94355826575fa95e1e5b48aed72b6068)
 
  - CDN link to Riot: [https://cdnjs.cloudflare.com/ajax/lib...](https://cdnjs.cloudflare.com/ajax/libs/riot/2.6.4/riot+compiler.min.js)
 
