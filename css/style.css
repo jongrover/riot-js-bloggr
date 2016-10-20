@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  float: left;
+  width: 17%;
+  padding: 0 20px;
+  border-right: 1px dotted #ccc;
+}
+
+main {
+  float: right;
+  width: 83%;
+  padding: 20px;
+}
+
+a {
+  color: blue;
+  display: block;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+
+h2 {
+  margin-top: 9px;
+}
