@@ -32,4 +32,4 @@ The Youtube video tutorial that accompanies this code can be found at: [https://
 
  - See the finished code at: [https://github.com/jongrover/riot-js-...](https://github.com/jongrover/riot-js-bloggr)
 
- - Full RiotJS docs at: [http://riotjs.com/](http://riotjs.com/)
+ - Full RiotJS docs at: [https://riot.js.org/documentation/](https://riot.js.org/documentation/)
